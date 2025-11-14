@@ -1,11 +1,9 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : MaxPhisher
-# Author     : KasRoudra
+# Author     : Jaat-Hacker
 # License    : MIT
-# Copyright  : KasRoudra (2022-2024)
-# GitHub     : https://github.com/KasRoudra
-# GitLab     : https://gitlab.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
+# Copyright  : Jaat-Hacker (2023-2025)
+# GitHub     : https://github.com/Jaat-Hacker
 # Description: MaxPhisher is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
 # 1st Commit : 08/9/2022
